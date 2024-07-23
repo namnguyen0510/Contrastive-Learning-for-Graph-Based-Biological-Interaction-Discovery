@@ -4,7 +4,7 @@
 This is the code repository for the article entitled: "Contrastive Learning for Graph-Based Biological Interaction Discovery: Insights from Oncologic Pathways"
 
 ## Discovered Pathways
-<img src="./figures/mean_avg_subgraph.jpg" alt="Sample Figure" width="300" /> <img src="./figures/weighted_avg_subgraph.jpg" alt="Sample Figure" width="300" />
+<img src="./figures/mean_avg_subgraph.jpg" alt="Sample Figure" width="500" /> <img src="./figures/weighted_avg_subgraph.jpg" alt="Sample Figure" width="500" />
 
 
 ## Trends in Clinical Interests of Discovered Biomarkers
