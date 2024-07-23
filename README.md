@@ -8,6 +8,8 @@ This is the code repository for the article entitled: "Contrastive Learning for 
 
 
 ## Trends in Clinical Interests of Discovered Biomarkers
+```{r, echo=FALSE, fig.cap="Figure caption"}
+knitr::include_graphics("./figures/group_1.pdf")
 
 
 
