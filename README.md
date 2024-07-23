@@ -4,15 +4,13 @@
 This is the code repository for the article entitled: "Contrastive Learning for Graph-Based Biological Interaction Discovery: Insights from Oncologic Pathways"
 
 ## Discovered Pathways
-<img src="./figures/mean_avg_subgraph.jpg" alt="Sample Figure" width="500" /> <img src="./figures/weighted_avg_subgraph.jpg" alt="Sample Figure" width="500" />
+<img src="./figures/mean_avg_subgraph.jpg" alt="Sample Figure" width="400" /> <img src="./figures/weighted_avg_subgraph.jpg" alt="Sample Figure" width="400" />
 
 
 ## Trends in Clinical Interests of Discovered Biomarkers
-```{r, echo=FALSE, fig.cap="Figure caption"}
-knitr::include_graphics("./figures/group_1.pdf")
-
-
-
+![Sample Figure](./figures/group_3.jpg)
+![Sample Figure](./figures/group_1.jpg)
+![Sample Figure](./figures/group_2.jpg)
 
 
 ## Code Usage
