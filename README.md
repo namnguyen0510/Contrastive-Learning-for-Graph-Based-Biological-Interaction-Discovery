@@ -17,4 +17,7 @@ python 1_cl_graph.py
 python 2_ensemble_result.py
 ```
 ### Model Architecture
+```python
+model.py
+```
 
